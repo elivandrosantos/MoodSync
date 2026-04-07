@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/ic_moodsync_foreground_img"
+        android:gravity="center"
+        android:width="66dp"
+        android:height="66dp"
+        android:top="21dp"
+        android:bottom="21dp"
+        android:left="21dp"
+        android:right="21dp" />
+</layer-list>
